@@ -1,0 +1,7 @@
+# 인증서와 바이너리 제외
+ssl/
+public/aws-nuke
+*.tar.gz
+*.log
+storage/logs/
+.env

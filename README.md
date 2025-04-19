@@ -13,7 +13,6 @@ Built for multi-user environments with individual key management, execution hist
 - ✅ User registration & login (with security code)
 - 🔐 Encrypted storage of AWS access & secret keys
 - 🌍 Region selection via dropdown (e.g., `ap-northeast-2`, `us-east-1`)
-- 🧪 Dry-run support (see what will be deleted)
 - 💣 Execute real deletion with confirmation
 - 📦 Run status tracking (`in progress`, `done`, etc.)
 - 📜 Execution logs view
@@ -29,13 +28,6 @@ Built for multi-user environments with individual key management, execution hist
 | Frontend        | HTML5 + Bootstrap 5       |
 | Backend         | PHP-FPM + MySQL           |
 | Infra           | Docker, Nginx             |
-| AWS Integration | aws-nuke CLI              |
-| Domain & SSL    | ZeroSSL + `aws-eraser.kro.kr` |
-| Hosting         | Ubuntu 22.04 (GCP VM)     |
-| Version Control | Git + GitHub              |
 
 ---
 
-## 📁 Screenshots
-
-Make sure the following image files exist in your repo:

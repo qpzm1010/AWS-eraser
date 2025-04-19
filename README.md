@@ -1,5 +1,7 @@
 # 🧹 aws-eraser
 
+ - URI: https://aws-earser.kro.kr/
+
 ![screenshot-1](./storage/main.png)
 ![screenshot-2](./storage/dashboard.png)
 

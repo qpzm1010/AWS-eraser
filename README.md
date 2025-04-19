@@ -1,7 +1,7 @@
 # 🧹 aws-eraser
 
-![screenshot-1](./screenshots/main.png)
-![screenshot-2](./screenshots/dashboard.png)
+![screenshot-1](./storage/main.png)
+![screenshot-2](./storage/dashboard.png)
 
 A web-based tool that helps users securely **wipe AWS resources** with support for dry-run, actual deletion, and resource logs.  
 Built for multi-user environments with individual key management, execution history, and simple interface.
